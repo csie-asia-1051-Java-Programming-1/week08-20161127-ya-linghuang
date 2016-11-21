@@ -4,7 +4,7 @@ package hw;
  * Date: 2016/11/21
  * Author: 1050210XX 周永振老師
  */
-public class hw03 {
+public class hw03_103051060 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
